@@ -1,10 +1,15 @@
 ## Tools
-Qt 6 (C++)
+Qt 6 MinGW (C++)
+
+## Setup
+-  Clone this repo
+-  Launch QT Creator
+-  Click on Open Project and Select the dontwannacry.pro file
+-  Then, launch this software in Debug/Release Mode (MinGW)
 
 ## What it does?
-1.  Upon running, it creates a dummy text file(wannacry.txt) on the current directory & encrypts it.
-
-2. If you click on decrypt button it decrypts the file(wannacry.txt).
+-  Upon running, it creates a dummy text file(wannacry.txt) on the current directory & encrypts it.
+-  If you click on decrypt button it decrypts the file(wannacry.txt).
 
 
 ## Screenshots
